@@ -1,4 +1,4 @@
-$title Maximum Matching Problem
+$title Minimum Covering Problem
 $eolcom //
 $ontext
  Minimum Covering Problem.
