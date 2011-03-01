@@ -1,4 +1,6 @@
-* Maximum Matching Problem with 9 nodes.
+* Graph with 9 nodes used in:
+*  - Maximum Matching Model.
+*  - Minimum Covering Model.
 
 set i nodes /1*9/;
 alias (i,j);

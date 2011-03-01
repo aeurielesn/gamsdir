@@ -1,4 +1,6 @@
-* Maximum Matching Model with 8 nodes.
+* Graph with 8 nodes used in:
+*  - Maximum Matching Model.
+*  - Minimum Covering Model.
 
 set i nodes /1*8/;
 alias (i,j);
