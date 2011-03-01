@@ -1,7 +1,7 @@
 $title Utility Maximization Problem.
 $eolcom //
 $ontext
- Exercise 3.3 from Introduction to Nonlinear and Global Optimization
+ Example 3.3 from Introduction to Nonlinear and Global Optimization
  by Eligius M.T. Hendrix and Boglárka G.-Tóth.
 
 Alexander Enrique Urieles Nieto.
