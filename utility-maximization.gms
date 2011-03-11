@@ -15,7 +15,7 @@ BUDGET
 NUTD
 ;
 
-BUDGET.. X1 + 2 * X2 =E= 6;
+BUDGET.. X1 + 2 * X2 =L= 6;
 NUTD..   NUT =E= X1 * X1 + X2 * X2;
 
 model VBNLP /ALL/;
