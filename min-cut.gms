@@ -23,8 +23,8 @@ source(src)..            n(src) =e= 1;
 sink(snk)..              n(snk) =e= 0;
 cost..                   z =e= sum((i,j), c(i,j) * e(i,j));
 
-model MF /ALL/;
+model MC /ALL/;
 
-solve MF USING LP MINIMIZING z;
+solve MC USING LP MINIMIZING z;
 
 display n.l, e.l;
